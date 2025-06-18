@@ -17,6 +17,7 @@ This repository documents my React learning progress. I'm following online tutor
 - ✅ Props and State
 - ✅ State Lifting
 - ✅ useContext Hook
+- ✅ Routing / Nested Routing
 
 
 
