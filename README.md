@@ -19,6 +19,7 @@ This repository documents my React learning progress. I'm following online tutor
 - ✅ useContext Hook
 - ✅ Routing / Nested Routing
 - ✅ React Form Hook / Validation / onSubmitting handle
+- ✅ Redux ToolKit
 
 
 
