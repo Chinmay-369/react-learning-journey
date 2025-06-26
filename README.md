@@ -20,6 +20,8 @@ This repository documents my React learning progress. I'm following online tutor
 - ✅ Routing / Nested Routing
 - ✅ React Form Hook / Validation / onSubmitting handle
 - ✅ Redux ToolKit
-
+- ✅ UseRef Hook
+- ✅ UseMemo Hook
+- ✅ Use Callback
 
 
