@@ -1,0 +1,45 @@
+body {
+  background: #242424;
+  color: aliceblue;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  height: fit-content;
+  width: fit-content;
+  padding: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+  background-color: #242424;
+  color: aliceblue;
+  border: 1px solid grey;
+  border-radius: 1rem;
+}
+
+.btn {
+  height: 3rem;
+  width: 7rem;
+  padding: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  background-color: #242424;
+  color: aliceblue;
+  border: 1px solid grey;
+  border-radius: 1rem;
+  margin-top: 2rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #caa747;
+  border: 1px solid rgb(42, 10, 255);
+}
+
+.btn:focus {
+  outline: 2px solid #caa747;
+  outline-offset: 2px;
+}
